@@ -71,4 +71,4 @@ int get calculateMoney => money - (money ~/disccount);
 // sadece bölme işlemi olduğunda sonuç geri dönmez bu sebeple ~ işareti atıyoruz.
 
 }
-  
+  //bu bir denemedir
